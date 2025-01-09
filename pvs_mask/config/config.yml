@@ -1,0 +1,8 @@
+paths:
+  data: "data/brainmask.mgz"
+  outputs: "outputs"
+  results: "results"
+
+filter:
+  stride: 0.05
+  threshold: 9
