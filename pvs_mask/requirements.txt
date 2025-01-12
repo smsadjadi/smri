@@ -1,3 +1,3 @@
+scikit-image
 nibabel
-skimage
 pyyaml

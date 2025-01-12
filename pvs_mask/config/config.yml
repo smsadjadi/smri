@@ -4,5 +4,5 @@ paths:
   results: "results"
 
 filter:
-  stride: 0.05
-  threshold: 9
+  stride: 0.01
+  threshold: 8
